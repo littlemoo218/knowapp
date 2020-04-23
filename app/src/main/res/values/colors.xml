@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#56ccf2</color>
+    <color name="colorPrimaryDark">#56ccf2</color>
+    <color name="colorAccent">#8AF8FC</color>
+
+
+    <color name="start">#D7F3FF</color>
+    <color name="end">#8AF8FC</color>
+
+    <color name="unchecked">#808080</color>
+    <color name="checked">#6707D5</color>
+
+    <color name="my_msg">#A5D6A7</color>
+    <color name="other_msg">#FFF59D</color>
+
+
+</resources>
+
